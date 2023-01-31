@@ -1,1 +1,1 @@
-# ASK_FSK_PSK-Simulation-Comparitive-Study
+# ASK_FSK_PSK-Simulation and Comparitive-Study
